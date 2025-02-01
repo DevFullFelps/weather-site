@@ -14,11 +14,11 @@ const Weather = () => {
                     <h1 className='temperatura'>22°</h1><p className='dia-atual'>SEGUNDA 22/14°</p>
                     <img src='./img/big-sun.png' alt='Imagem sol' className='img-principal' />
                 </div>
-                <div className='area-info-b'>
+                <div className='area-info-c'>
                     <ul>
-                        <li><i class="ri-sun-line"></i>Terça - 25/20°</li>
-                        <li><i class="ri-sun-line"></i>Quarta - 25/20°</li>
-                        <li><i class="ri-sun-line"></i>Quinta - 25/20°</li>
+                        <li><i class="ri-sun-line"></i>TERÇA<span>25/20°</span></li>
+                        <li><i class="ri-sun-line"></i>QUARTA  <span>25/20°</span></li>
+                        <li><i class="ri-sun-line"></i>QUINTA  <span>25/20°</span></li>
                     </ul>
                 </div>
             </div>
